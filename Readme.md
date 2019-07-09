@@ -24,6 +24,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#Prerequisites)
   - [First run](#first-run)
+  - [TDD](#tdd)
 - [Routes](#routes)
   - [Users](#users)
   - [Auth](#auth)
